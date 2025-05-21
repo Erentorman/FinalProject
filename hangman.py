@@ -67,7 +67,7 @@ logo = r'''
                     __/ |                      
                    |___/    '''
 
-word_list = ["adana","istanbul","ankara ","tarih",
+word_list = ["adana","istanbul","ankara","tarih",
     "coğrafya",
     "felsefe",
     "biyoloji",
